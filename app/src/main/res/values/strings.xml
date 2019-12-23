@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JagungFundamentals</string>
+
+    <!--ROOM LIVE DATA-->
+    <string name="note_hint">My note…</string>
+    <string name="button_save_label">Save</string>
+    <string name="button_delete_item_label">Delete item</string>
+</resources>
