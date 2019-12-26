@@ -1,5 +1,4 @@
 package com.jagungin.jagungfundamentals.room_livedata.presentation.fragment
-
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -18,7 +17,6 @@ import io.reactivex.schedulers.Schedulers
 import kotlinx.android.synthetic.main.fragment_list_note.*
 import kotlinx.android.synthetic.main.layout_delete_item.*
 import org.koin.android.architecture.ext.viewModel
-
 /**
  * Created by Rizky Agung Ramadhan
 ( rizkyagungramadhan@gmail.com ) on 23/12/2019.
